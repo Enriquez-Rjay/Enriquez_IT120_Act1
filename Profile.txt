@@ -1,0 +1,14 @@
+FirstName: Frince R-Jay
+MiddleName: N/A
+LastName: Enriquez
+Gender: Male
+Age: 21
+Birthday: August 12, 2004
+
+Contact: 09184580808
+Birth of Place: TONDO, MANILA
+Religion: Roman Catholic
+Father's Name: N/A
+Occupation: N/A
+Mother's Name: Emely L. Enriquez
+Occupation: HouseKeeper
